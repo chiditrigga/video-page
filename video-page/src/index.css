@@ -1,0 +1,39 @@
+.bb{
+    background-image: url("./assets/dot2.png") !important;
+   background-repeat: no-repeat;
+ height: 50% !important;
+    
+}
+
+
+.cc{
+    background-image: url("./assets/dot1.png");
+    background-repeat: no-repeat;
+}
+
+p{
+    font-weight: 400;
+}
+
+h3{
+    font-weight: 600;
+}
+
+h1{
+    font-weight: 700;
+}
+
+.bridge{
+
+  
+    border-bottom: 50px solid rgba(244, 246, 248, 1);
+    margin: 30px 0;
+    margin-top: 70px !important;
+
+  
+}
+
+.but{
+    max-width: 180px;
+    padding: 10px;
+}
